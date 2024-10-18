@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 mtphotos/mt-photos:latest
 --platform=linux/arm64 xiaoyaliu/alist
+vaultwarden/server:latest
